@@ -1,39 +1,27 @@
 # design-patterns
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+| 序号 | 中文 | 英文 |
+| :---: | :---: | :---: |
+| *1 | 工厂方法模式	| Factory Method Pattern    |
+| *2 | 抽象工厂模式	| Abstract Factory Pattern  |
+| *3 | 建造者模式	| Builder Pattern   |
+| *4 | 原型模式	    | Prototype Pattern |
+| *5 | 单例模式    	| Singleton Pattern |
+| *6 | 适配器模式	| Adapter Pattern   |
+| *7 | 桥接模式    	| Bridge Pattern    |
+| *8 | 组合模式	    | Composite Pattern |
+| *9 | 装饰模式	    | Decorator Pattern |
+| *10 | 门面模式     | Facade Pattern   |
+| *11 | 享元模式    	| Flyweight Pattern |
+| *12 | 代理模式    	| Proxy pattern |
+| *13 | 责任链模式	| Chain of Responsibility Pattern   |
+| *14 | 命令模式	    | Command Pattern   |
+| *15 | 解释器模式	| Interpreter Pattern   |
+| *16 | 迭代器模式	| Iterator Pattern  |
+| *17 | 中介者模式	| Mediator Pattern  |
+| *18 | 备忘录模式	| Memento Pattern   |
+| *19 | 观察者模式	| Observer Pattern  |
+| *20 | 状态模式    	| State Pattern |
+| *21 | 策略模式	    | Strategy Pattern  |
+| *22 | 模板方法模式	| Template Method Pattern   |
+| *23 | 访问者模式	| Visitor Pattern   |
